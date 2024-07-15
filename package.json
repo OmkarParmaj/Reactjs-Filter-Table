@@ -1,0 +1,12 @@
+{
+  "name": "table-search",
+  "version": "1.0.0",
+  "description": "Table search is a npm package for filter out the table content using search input",
+  "main": "FilterTableData.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omkar Parmaj",
+  "license": "ISC"
+}
