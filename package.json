@@ -1,5 +1,5 @@
 {
-  "name": "table-search",
+  "name": "filtertabledata",
   "version": "1.0.0",
   "description": "Table search is a npm package for filter out the table content using search input",
   "main": "FilterTableData.js",
